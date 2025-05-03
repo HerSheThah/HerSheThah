@@ -7,8 +7,8 @@
 🔧 Driven software developer passionate about solving real-world problems and writing clean, maintainable code.  
 💻 Skilled in C#, .NET Core, Angular, SQL, and Azure fundamentals, with an interest in building robust backend systems and cloud applications.  
 📚 Constantly exploring Data Structures, Algorithms, and System Design (LLD & HLD) to craft scalable solutions.  
-🤝 Open to collaborating on interesting projects, sharing insights, and contributing to developer communities.  
-🚀 Sharing practical repositories on DSA, system architecture, and engineering best practices to support and uplift fellow developers.
+🤝 Open to collaborating on interesting projects, sharing insights and contributing to developer communities.  
+🚀 Sharing repositories in GitHub on DSA, system architecture and engineering best practices to support and uplift coding skills.
 
 ---
 
